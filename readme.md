@@ -46,8 +46,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O MyLinks é um agregador de links para usar como cartão de visitas online.
 
-[Visite o projeto online](https://robertojunnior.github.io/nlw-setup/)
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover).
