@@ -15,13 +15,6 @@ Programa exclusivo e gratuito, promovido pela Rockseat para ensino de tecnologia
   <img alt="MyLinks" src=".github/preview.jpg">
 </p>
 
-<br>
-
-  <div align="center">
-    <a target="_blank" href="https://robertojunnior.github.io/nlw-setup/">
-    <img width="800px" src="./assets/cover-project.png" alt="imagem-de-capa">
-    <img width="800px" src="./assets/home-project.png" alt="home-do-projeto">
-    </a>
   </div>
 
 <br>
