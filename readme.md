@@ -15,7 +15,7 @@ Programa exclusivo e gratuito, promovido pela Rockseat para ensino de tecnologia
   <img alt="MyLinks" src=".github/preview.jpg">
 </p>
 
-  </div>
+<br>
 
 <br>
 <br>
@@ -38,6 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O MyLinks é um agregador de links para usar como cartão de visitas online.
+
 
 ## 🔖 Layout
 
