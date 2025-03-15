@@ -21,7 +21,6 @@ Programa exclusivo e gratuito, promovido pela Rockseat para ensino de tecnologia
 <br>
 
 <br>
-🧑‍🚀 Este NLW-SETUP foi apresentado pelo MAYK BRITO, vulgo "MAYKÃO"! E o projeto desenvolvido no FIGMA pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de design moderno e fácil uso!
 
 <br>
 
